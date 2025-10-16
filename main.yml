@@ -10,4 +10,4 @@ jobs:
         - run: echo "This woorkflow runs  successfully for this  particular action"
 
         -name: Simulating error 
-        run:   echo "Error taking place" ; exit 1
+        run: echo "Error taking place"; exit 1
